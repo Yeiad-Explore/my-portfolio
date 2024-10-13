@@ -328,7 +328,13 @@ all sort of link, Date  */
     text-decoration: underline;
     color: aliceblue;
 }
+
 .certificate-link-container > 
+.certificate-link:hover{
+    text-decoration: none;
+}
+
+.project-link-container >
 .certificate-link:hover{
     text-decoration: none;
 }
@@ -347,6 +353,7 @@ all sort of link, Date  */
 .certificate-btn:hover{
     background-color: #555;
     transform: translateY(-0.3rem);
+    
 }
 /* Certificates Ends  */
 
